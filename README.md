@@ -1,9 +1,12 @@
 ## Hi there 👋
-[![Vasilis MItsaras GitHub stats](https://github-readme-stats.vercel.app/api?username=vmitsaras&count_private=true&show_icons=true&theme=radical)](https://github.com/vmitsaras/github-readme-stats)
+[![Vasilis MItsaras GitHub stats](https://github-readme-stats.vercel.app/api?username=vmitsaras&count_private=true&show_icons=true&theme=radical&hide=contribs)](https://github.com/vmitsaras/github-readme-stats)
 
-## 🔭 repos
-* [jQuery accessible Offcanvas plugin](https://github.com/vmitsaras/js-offcanvas), ![js-offcanvas](https://img.shields.io/npm/dt/js-offcanvas.svg)
-* [Hugo Theme Speaker](https://github.com/vmitsaras/hugo-theme-speaker)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmitsaras&layout=compact)](https://github.com/vmitsaras)
+
+[![jQuery accessible Offcanvas plugin](https://github-readme-stats.vercel.app/api/pin/?username=vmitsaras&repo=js-offcanvas)](https://github.com/vmitsaras/js-offcanvas)
+
+![js-offcanvas](https://img.shields.io/npm/dt/js-offcanvas.svg)
+
 
 <!--
 **vmitsaras/vmitsaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
