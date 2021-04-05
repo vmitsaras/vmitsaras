@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Vasilis MItsaras GitHub stats](https://github-readme-stats.vercel.app/api?username=vmitsaras&count_private=true)](https://github.com/vmitsaras/github-readme-stats)
+[![Vasilis MItsaras GitHub stats](https://github-readme-stats.vercel.app/api?username=vmitsaras&count_private=true&show_icons=true&theme=radical)](https://github.com/vmitsaras/github-readme-stats)
 
 ## 🔭 repos
 * [jQuery accessible Offcanvas plugin](https://github.com/vmitsaras/js-offcanvas), ![js-offcanvas](https://img.shields.io/npm/dt/js-offcanvas.svg)
