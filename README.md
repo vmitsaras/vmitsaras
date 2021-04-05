@@ -1,4 +1,4 @@
-**Hi there** 👋
+## Hi there 👋
 [![Vasilis MItsaras GitHub stats](https://github-readme-stats.vercel.app/api?username=vmitsaras)](https://github.com/vmitsaras/github-readme-stats)
 
 ## 🔭 repos
